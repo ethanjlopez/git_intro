@@ -1,1 +1,3 @@
-'Ethan Lopez' 
+Ethan Lopez
+lopezet@oregonstate.edu
+
